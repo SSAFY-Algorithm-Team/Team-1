@@ -1,4 +1,5 @@
 # 알고리즘 스터디 (삼성 SW 역량테스트 A·B형 대비)
+(2026.8.13.(목) 최신화)
 
 📖 **처음 오셨나요?** → [깃허브 사용 가이드](https://github.com/SSAFY-Algorithm-Team/Team-3/blob/main/GITHUB_GUIDE.md) *(출처: 알고리즘-3팀장 임규영)*
 
