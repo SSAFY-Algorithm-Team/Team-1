@@ -129,7 +129,7 @@
 ```bash
 git switch master
 git pull
-git switch -c {깃허브 닉네임}/week-01
+git switch -c {본인 폴더명(또는 닉네임)}
 # 문제 풀고 커밋
-git push -u origin {깃허브 닉네임}/week-01
+git push -u origin {본인 폴더명(또는 닉네임)}/week-01
 ```
