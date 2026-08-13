@@ -34,10 +34,14 @@
 **해당 자료들은 REFERENCE 폴더에서 확인 가능합니다**
 
 📖 **그래프** → [그래프](./REFERENCE/그래프.pdf)
+
 📖 **BFS** → [BFS](./REFERENCE/BFS.pdf)
-📖 **BFS 레퍼런스 코드** -> [BFS 레퍼런스 코드](./REFERENCE/bfs.py)
+
+📖 **BFS 레퍼런스 코드** → [BFS 레퍼런스 코드](./REFERENCE/bfs.py)
+
 📖 **DFS** → [DFS](./REFERENCE/DFS.pdf)
-📖 **DFS 레퍼런스 코드** -> [DFS 레퍼런스 코드](./REFERENCE/dfs.py)
+
+📖 **DFS 레퍼런스 코드** → [DFS 레퍼런스 코드](./REFERENCE/dfs.py)
 
 ---
 
