@@ -21,8 +21,6 @@ for t in range(m):
 for row in graph:
     row.sort()
 
-# print(graph)
-# print(visited)
 dfs(graph, v)
 
 for i in order:
