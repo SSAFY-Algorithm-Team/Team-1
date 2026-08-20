@@ -9,26 +9,26 @@ public class Java_1732 {
 	/** 
 	 * 전역 변수 선언
 	 * DFS 메서드에서 사용할 변수를 static으로 정의, 사용 
-	 **/
+	**/
 	static int N = 0;
-    static int M = 0;
-    static ArrayList<ArrayList<Integer>> graph;
-    static int answer = 0;
-    static boolean[] checked;
-    private static void DFS(int v) {
-    	checked[v] = true;
-        System.out.print(v + " "); // 방문 시점 출력
+  static int M = 0;
+  static ArrayList<ArrayList<Integer>> graph;
+  static int answer = 0;
+  static boolean[] checked;
+  private static void DFS(int v) {
+  	checked[v] = true;
+    System.out.print(v + " "); // 방문 시점 출력
         
-    	for(int next:graph.get(v)) {
-    		if(!checked[next]) {
-    			checked[next] = true;
-        		DFS(next);
-        		//checked[next] = false;
-        		// 이 위의 것은 backtrack을 통해 가능한 모든 경로를 체크하는 구간임
-        		// 한 번 길을 갔다면 checked를 true로 하고 넘어가야 함 
-    		}
+    for(int next:graph.get(v)) {
+    	if(!checked[next]) {
+    		checked[next] = true;
+        DFS(next);
+        //checked[next] = false;
+        // 이 위의 것은 backtrack을 통해 가능한 모든 경로를 체크하는 구간임
+        // 한 번 길을 갔다면 checked를 true로 하고 넘어가야 함 
     	}
     }
+  }
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		N = sc.nextInt();
