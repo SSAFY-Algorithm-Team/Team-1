@@ -1,7 +1,7 @@
 # 코더스패스 1145 너비 우선 탐색
 from collections import deque
 
-def dfs(graph, start):
+def bfs(graph, start):
     visited = [False] * len(graph)
     q.append(start)
     visited[start] = True
@@ -30,4 +30,4 @@ for t in range(m):
 for row in graph:
     row.sort()
 
-dfs(graph, v)
+bfs(graph, v)
