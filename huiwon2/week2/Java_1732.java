@@ -5,7 +5,7 @@ import java.util.Collections;
 import java.util.Scanner;
 
 public class Java_1732 {
-    // 깊이 우선 탐색 
+  // 깊이 우선 탐색 
 	/** 
 	 * 전역 변수 선언
 	 * DFS 메서드에서 사용할 변수를 static으로 정의, 사용 
