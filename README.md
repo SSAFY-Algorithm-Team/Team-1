@@ -109,16 +109,73 @@
 </details>
 
 <details>
-<summary><b>도전 문제 (6문제)</b></summary>
+<summary><b>공통 문제 (1문제)</b></summary>
+
+| 출처 | 문제 등급 | 번호 | 제목 | 링크 |
+|:---:|:---:|:---:|---|:---:|
+| SWEA | D5 | 1247 | 최적 경로 | [바로가기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15OZ4qAPICFAYD&categoryId=AV15OZ4qAPICFAYD&categoryType=CODE&problemTitle=1247&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) |
+
+</details>
+
+
+<details>
+<summary><b>도전 문제 (5문제)</b></summary>
 
 | 출처 | 문제 등급 | 번호 | 제목 | 링크 |
 |:---:|:---:|:---:|---|:---:|
 | SWEA | D4 | 2117 | 홈 방범 서비스 | [바로가기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V61LqAf8DFAWu&categoryId=AV5V61LqAf8DFAWu&categoryType=CODE&problemTitle=%ED%99%88&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) |
-| SWEA | D5 | 1247 | 최적 경로 | [바로가기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15OZ4qAPICFAYD&categoryId=AV15OZ4qAPICFAYD&categoryType=CODE&problemTitle=1247&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) |
 | SWEA | D5 | 2382 | 미생물 격리 | [바로가기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV597vbqAH0DFAVl&categoryId=AV597vbqAH0DFAVl&categoryType=CODE&problemTitle=%EB%AF%B8%EC%83%9D%EB%AC%BC&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) |
 | SWEA | D5 | 5644 | 무선 충전 | [바로가기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRDL1aeugDFAUo&categoryId=AWXRDL1aeugDFAUo&categoryType=CODE&problemTitle=%EB%AC%B4%EC%84%A0&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) |
 | SWEA | D5 | 2115 | 벌꿀채취 | [바로가기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V4A46AdIDFAWu&categoryId=AV5V4A46AdIDFAWu&categoryType=CODE&problemTitle=%EB%B2%8C%EA%BF%80&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) |
 | SWEA | D6 | 1855 | 영준이의 진짜 BFS | [바로가기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LnipaDvwDFAXc&categoryId=AV5LnipaDvwDFAXc&categoryType=CODE&problemTitle=BFS&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) |
+
+</details>
+
+---
+
+## 📅 3주차 문제 (00문제)
+
+- **주제**: 완전탐색 & 백트래킹 & BFS & DFS 복습
+- **출처**: SWEA / 프로그래머스 / 코더스패스
+
+<details>
+<summary><b>개념 문제 (3문제)</b></summary>
+
+| 출처 | 문제 등급 | 번호 | 제목 | 링크 |
+|:---:|:---:|:---:|---|:---:|
+| SWEA | D2 | 14510 | 나무 높이 | [바로가기](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AYFofW8qpXYDFAR4) |
+| SWEA | D1 | 27018 | 다이얼 자물쇠 조합 수 | [바로가기](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AZ87c1HKyEbHBITH) |
+| SWEA | D2 | 27020 | 인접 구역 색칠 경우의 수 | [바로가기]https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AZ87c1z6yFHHBITH() |
+
+</details>
+
+<details>
+<summary><b>공통 문제 (1문제)</b></summary>
+
+| 출처 | 문제 등급 | 번호 | 제목 | 링크 |
+|:---:|:---:|:---:|---|:---:|
+| SWEA | D4 | 1249 | 보급로 | [바로가기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15QRX6APsCFAYD&categoryId=AV15QRX6APsCFAYD&categoryType=CODE&problemTitle=%EB%B3%B4%EA%B8%89%EB%A1%9C&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) |
+
+</details>
+
+<details>
+<summary><b>도전 문제 (3문제)</b></summary>
+
+| 출처 | 문제 등급 | 번호 | 제목 | 링크 |
+|:---:|:---:|:---:|---|:---:|
+| SWEA | D5 | 6782 | 현주가 좋아하는 제곱근 놀이 | [바로가기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWgqsAlKr9sDFAW0) |
+| SWEA | D4 | 1486 | 장훈이의 높은 선반 | [바로가기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV2b7Yf6ABcBBASw) |
+| SWEA | D4 | 1868 | 파핑파핑 지뢰찾기 | [바로가기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LwsHaD1MDFAXc) |
+
+</details>
+
+<details>
+<summary><b>PRO 도전 문제 (2문제)</b></summary>
+
+| 출처 | 문제 등급 | 번호 | 제목 | 링크 |
+|:---:|:---:|:---:|---|:---:|
+| SWEA | D6 | 26043 | 단어장 | [바로가기](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AZt8IiBqxEDHBIN6&contestProbId=AZwdOG5aC2rHBIPa&probBoxId=AZt8IiBqxEHHBIN6&type=PROBLEM&problemBoxTitle=B%ED%98%95+%EA%B8%B0%EC%B6%9C&problemBoxCnt=31) |
+| SWEA | D6 | 25964 | 기계식 주차장 | [바로가기](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AZt8IiBqxEDHBIN6&contestProbId=AZvfGm7qDZ7HBIN6&probBoxId=AZt8IiBqxEHHBIN6&type=PROBLEM&problemBoxTitle=B%ED%98%95+%EA%B8%B0%EC%B6%9C&problemBoxCnt=31) |
 
 </details>
 
