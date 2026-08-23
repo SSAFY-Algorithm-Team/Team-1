@@ -1,0 +1,61 @@
+T = int(input())
+for test_case in range(1, T + 1):
+    N = int(input())
+    arr = [list(map(int, input().split())) for _ in range(N)]
+    start = (0, 0) # 시작 지점
+    end = (N - 1, N - 1) # 도착 지점
+
+    dx = [1, 0]
+    dy = [0, 1]
+    dp = [[-1] * N for _ in range(N)] # DP(거리 저장)
+    def dfs(s):
+        x, y = s
+
+        if dp[x][y] != -1: # 이미 계산된 값이 있으면
+            return dp[x][y] # 다시 계산하지 않고 반환
+
+        if s == end: # 도착 지점에 도달하면
+            dp[x][y] = arr[x][y]
+            return dp[x][y]
+
+        best = float('inf')
+        for i in range(2):
+            nx, ny = x + dx[i], y + dy[i]
+            if(0 <= nx < N and 0 <= ny < N):
+                location = (nx, ny)
+                best = min(best, dfs(location))
+
+        dp[x][y] = arr[x][y] + best # 계산 결과를 DP에 저장
+        return dp[x][y]
+
+    result = dfs(start)
+    print(f'#{test_case} {result}')
+
+# 실패한 코드(DFS만 적용한 결과: 제한시간 초과)
+'''
+T = int(input())
+for test_case in range(1, T + 1):
+    N = int(input())
+    arr = [list(map(int, input().split())) for _ in range(N)]
+    start = (0, 0) # 시작 지점
+    end = (N - 1, N - 1) # 도착 지점
+
+    dx = [1, 0]
+    dy = [0, 1]
+    def dfs(s):
+        if s == end:
+            return arr[end[0]][end[1]]
+
+        x, y = s
+        best = float('inf')
+        for i in range(2):
+            nx, ny = x + dx[i], y + dy[i]
+            if(0 <= nx < N and 0 <= ny < N):
+                location = (nx, ny)
+                best = min(best, dfs(location))
+
+        return arr[x][y] + best
+
+    result = dfs(start)
+    print(f'#{test_case} {result}')
+'''
