@@ -133,7 +133,7 @@
 
 ---
 
-## 📅 3주차 문제 (00문제)
+## 📅 3주차 문제 (9문제)
 
 - **주제**: 완전탐색 & 백트래킹 & BFS & DFS 복습
 - **출처**: SWEA / 프로그래머스 / 코더스패스
@@ -145,7 +145,7 @@
 |:---:|:---:|:---:|---|:---:|
 | SWEA | D2 | 14510 | 나무 높이 | [바로가기](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AYFofW8qpXYDFAR4) |
 | SWEA | D1 | 27018 | 다이얼 자물쇠 조합 수 | [바로가기](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AZ87c1HKyEbHBITH) |
-| SWEA | D2 | 27020 | 인접 구역 색칠 경우의 수 | [바로가기]https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AZ87c1z6yFHHBITH() |
+| SWEA | D2 | 27020 | 인접 구역 색칠 경우의 수 | [바로가기](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AZ87c1z6yFHHBITH) |
 
 </details>
 
