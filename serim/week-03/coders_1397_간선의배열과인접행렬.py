@@ -4,11 +4,13 @@
 # 간선, 정점
 A, B = map(int, input().split())
 
-adj_matix = [[0]*(B+1) for _ in range(B+1)]
+# 탐색 문제와 다르게 0행과 0열 필요없어서 B+1 안해도 됨
+adj_matix = [[0]*(B) for _ in range(B)]
 
 for _ in range(A):
     start, end = map(int, input().split())
-    adj_matix[start][end] = 1
-    adj_matix[end][start] = 1
+    # 대신에 노드번호-1 인덱스에 저장해주기
+    adj_matix[start-1][end-1] = 1
+    adj_matix[end-1][start-1] = 1
 
 print(adj_matix)
