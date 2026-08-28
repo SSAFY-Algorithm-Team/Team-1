@@ -181,6 +181,56 @@
 
 ---
 
+## 📅 4주차 문제 (00문제)
+
+- **주제**: 자료구조 & 순열·조합
+- **출처**: SWEA / 프로그래머스 / 코더스패스
+
+<details>
+<summary><b>개념 문제 (5문제)</b></summary>
+
+| 출처 | 문제 등급 | 번호 | 제목 | 링크 |
+|:---:|:---:|:---:|---|:---:|
+| SWEA | D2 | 16473 | 코드 편집기의 괄호 짝 검사 | [바로가기](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AZ6wpDrqHZXHBIQj) |
+| SWEA | D1 | 27023 | 은행 번호표 발급기 | [바로가기](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AZ87c2tayF3HBITH) |
+| SWEA | D2 | 1966 | 숫자를 정렬하자 | [바로가기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PrmyKAWEDFAUq) |
+| SWEA | D2 | 16681 | 하위 조직 인원수 세기 | [바로가기](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AZ6wpGHaHbXHBIQ) |
+| SWEA | D3 | 9940 | 순열1 | [바로가기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXHx23oq0REDFAXR) |
+
+</details>
+
+<details>
+<summary><b>공통 문제 (선정중)</b></summary>
+
+| 출처 | 문제 등급 | 번호 | 제목 | 링크 |
+|:---:|:---:|:---:|---|:---:|
+| SWEA | D0 | 0000 | 0000 | [바로가기]() |
+</details>
+
+<details>
+<summary><b>도전 문제 (3문제)</b></summary>
+
+| 출처 | 문제 등급 | 번호 | 제목 | 링크 |
+|:---:|:---:|:---:|---|:---:|
+| SWEA | D4 | 계산기1 | 1222 | [바로가기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14mbSaAEwCFAYD) |
+| SWEA | D3 | 농작물 수확하기 | 2805 | [바로가기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV7GLXqKAWYDFAXB) |
+| SWEA | D3 | 암호문1 | 1228 | [바로가기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14w-rKAHACFAYD) |
+| SWEA | D4 | 중위순회 | 1231 | [바로가기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV140YnqAIECFAYD) |
+| SWEA | D4 | 러시아 국기 같은 깃발 | 4613 | [바로가기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWQl9TIK8qoDFAXj) |
+
+</details>
+
+<details>
+<summary><b>PRO 도전 문제 (선정중)</b></summary>
+
+| 출처 | 문제 등급 | 번호 | 제목 | 링크 |
+|:---:|:---:|:---:|---|:---:|
+| SWEA | D0 | 0000 | 0000 | [바로가기]() |
+| SWEA | D0 | 0000 | 0000 | [바로가기]() |
+</details>
+
+---
+
 ## 📤 제출 방법 요약
 
 ```bash
