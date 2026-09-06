@@ -181,30 +181,33 @@
 
 ---
 
-## 📅 4주차 문제 (00문제)
+## 📅 4주차 문제 (20문제)
 
-- **주제**: 자료구조 & 순열·조합
-- **출처**: SWEA / 프로그래머스 / 코더스패스
+- **주제**: 알고리즘 기본 / 재귀 / 순열과 조합 / 스택과 큐 / 트리와 그래프
+- **출처**: SWEA 
 
 <details>
-<summary><b>개념 문제 (5문제)</b></summary>
+<summary><b>기본 문제 (17문제)</b></summary>
 
 | 출처 | 문제 등급 | 번호 | 제목 | 링크 |
 |:---:|:---:|:---:|---|:---:|
-| SWEA | D2 | 16473 | 코드 편집기의 괄호 짝 검사 | [바로가기](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AZ6wpDrqHZXHBIQj) |
-| SWEA | D1 | 27023 | 은행 번호표 발급기 | [바로가기](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AZ87c2tayF3HBITH) |
-| SWEA | D2 | 1966 | 숫자를 정렬하자 | [바로가기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PrmyKAWEDFAUq) |
-| SWEA | D2 | 16681 | 하위 조직 인원수 세기 | [바로가기](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AZ6wpGHaHbXHBIQ) |
-| SWEA | D3 | 9940 | 순열1 | [바로가기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXHx23oq0REDFAXR) |
-
-</details>
-
-<details>
-<summary><b>공통 문제 (선정중)</b></summary>
-
-| 출처 | 문제 등급 | 번호 | 제목 | 링크 |
-|:---:|:---:|:---:|---|:---:|
-| SWEA | D0 | 0000 | 0000 | [바로가기]() |
+| SWEA | D2 | 9490 | 풍선팡 | [바로가기](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AXAerAPaVXMDFARP&categoryId=AXAerAPaVXMDFARP&categoryType=CODE) |
+| SWEA | D2 | 4834 | 숫자 카드 | [바로가기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWTLVouKpUgDFAVT&categoryId=AWTLVouKpUgDFAVT&categoryType=CODE&problemTitle=%EC%88%AB%EC%9E%90+%EC%B9%B4%EB%93%9C&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) |
+| SWEA | D2 | 4828 | min max | [바로가기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWTLQZwKon4DFAVT&categoryId=AWTLQZwKon4DFAVT&categoryType=CODE&problemTitle=4828&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) |
+| SWEA | D2 | 4836 | 색칠하기 | [바로가기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWTLZMRKpsYDFAVT&categoryId=AWTLZMRKpsYDFAVT&categoryType=CODE&problemTitle=4836&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) |
+| SWEA | D3 | 2805 | 농작물 수확하기 | [바로가기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV7GLXqKAWYDFAXB&categoryId=AV7GLXqKAWYDFAXB&categoryType=CODE&problemTitle=2805&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) |
+| SWEA | D4 | 1210 | Ladder1 | [바로가기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14ABYKADACFAYh&categoryId=AV14ABYKADACFAYh&categoryType=CODE&problemTitle=1210&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) |
+| SWEA | D3 | 4831 | 전기버스 | [바로가기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWTLS24ao9ADFAVT&categoryId=AWTLS24ao9ADFAVT&categoryType=CODE&problemTitle=4831&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) |
+| SWEA | 모의SW역량테스트 | 4014 | 활주로 건설 | [바로가기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeW7FakkUDFAVH&categoryId=AWIeW7FakkUDFAVH&categoryType=CODE&problemTitle=4014&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) |
+| SWEA | 모의SW역량테스트 | 4012 | 요리사 | [바로가기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeUtVakTMDFAVH&categoryId=AWIeUtVakTMDFAVH&categoryType=CODE&problemTitle=4012&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) |
+| SWEA | 모의SW역량테스트 | 2382 | 미생물 격리 | [바로가기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV597vbqAH0DFAVl&categoryId=AV597vbqAH0DFAVl&categoryType=CODE&problemTitle=2382&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) |
+| SWEA | D3 | 1240 | 단순 2진 암호코드 | [바로가기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15FZuqAL4CFAYD&categoryId=AV15FZuqAL4CFAYD&categoryType=CODE&problemTitle=1240&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) |
+| SWEA | D4 | 5432 | 쇠막대기 자르기 | [바로가기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWVl47b6DGMDFAXm&categoryId=AWVl47b6DGMDFAXm&categoryType=CODE&problemTitle=5432&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) |
+| SWEA | 모의SW역량테스트 | 2477 | 차량 정비소 | [바로가기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV6c6bgaIuoDFAXy&categoryId=AV6c6bgaIuoDFAXy&categoryType=CODE&problemTitle=2477&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) |
+| SWEA | D3 | 1225 | 암호생성기 | [바로가기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14uWl6AF0CFAYD&categoryId=AV14uWl6AF0CFAYD&categoryType=CODE&problemTitle=1225&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) |
+| SWEA | D4 | 1222 | 계산기1 | [바로가기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14mbSaAEwCFAYD&categoryId=AV14mbSaAEwCFAYD&categoryType=CODE&problemTitle=1222&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) |
+| SWEA | D3 | 1220 | Magnetic | [바로가기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14hwZqABsCFAYD&categoryId=AV14hwZqABsCFAYD&categoryType=CODE&problemTitle=1220&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) |
+| SWEA | D2 | 5176 | 이진탐색 | [바로가기](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AZ9kDS86wCTHBITH&contestProbId=AWTa0jjq4ggDFAVT&probBoxId=AZ9kECgawDDHBITH&type=PROBLEM&problemBoxTitle=%ED%8A%B8%EB%A6%AC%EC%99%80+%EA%B7%B8%EB%9E%98%ED%94%84&problemBoxCnt=4) |
 </details>
 
 <details>
@@ -212,21 +215,10 @@
 
 | 출처 | 문제 등급 | 번호 | 제목 | 링크 |
 |:---:|:---:|:---:|---|:---:|
-| SWEA | D4 | 계산기1 | 1222 | [바로가기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14mbSaAEwCFAYD) |
-| SWEA | D3 | 농작물 수확하기 | 2805 | [바로가기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV7GLXqKAWYDFAXB) |
-| SWEA | D3 | 암호문1 | 1228 | [바로가기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14w-rKAHACFAYD) |
-| SWEA | D4 | 중위순회 | 1231 | [바로가기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV140YnqAIECFAYD) |
-| SWEA | D4 | 러시아 국기 같은 깃발 | 4613 | [바로가기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWQl9TIK8qoDFAXj) |
+| SWEA | D3 | 1234 | 비밀번호 | [바로가기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14_DEKAJcCFAYD) |
+| SWEA | D3 | 3499 | 퍼펙트 셔플 | [바로가기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWGsRbk6AQIDFAVW) |
+| SWEA | D5 | 1248 | 공통조상 | [바로가기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15PTkqAPYCFAYD) |
 
-</details>
-
-<details>
-<summary><b>PRO 도전 문제 (선정중)</b></summary>
-
-| 출처 | 문제 등급 | 번호 | 제목 | 링크 |
-|:---:|:---:|:---:|---|:---:|
-| SWEA | D0 | 0000 | 0000 | [바로가기]() |
-| SWEA | D0 | 0000 | 0000 | [바로가기]() |
 </details>
 
 ---
