@@ -1,6 +1,5 @@
 from itertools import combinations
 
-
 def taste(group):
     total = 0
     for i in group:
@@ -8,7 +7,6 @@ def taste(group):
             if i != j:
                 total += arr[i][j]
     return total
-
 
 T = int(input())
 for tc in range(1, T + 1):
