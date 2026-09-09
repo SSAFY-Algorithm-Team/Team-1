@@ -12,14 +12,18 @@ public class d4_5432 {
 	     Stack<Character> stack = new Stack<>();
 	     for (int i = 0; i < char_string.length; i++) {
 	    	 if(char_string[i] == '('){
-	    		 stack.push(char_string[i]);
+				// 여는 괄호는 계속 push
+	    		stack.push(char_string[i]);
 	         }else{
-	             stack.pop();
-	             if(char_string[i-1] == '('){
-	                 answer += stack.size();
-	             }else{
-	                 answer++;
-	             }
+	            stack.pop();
+	            if(char_string[i-1] == '('){
+					// 닫는 괄호를 빼고 난 이전 값이 여는 괄호라면 stack의 사이즈가 쇠막대기가 잘리는 방향
+	                answer += stack.size();
+	            }else{
+					// 그렇지 않으면 잘리는 방향이 아님 -> 이전 값이 닫히는 괄호라 전 값에서 잘렸기 때문에 +1을 해준다.
+					// 1개로 나눠지기 때문임
+	                answer++;
+	            }
 	         }
 	     }
 	     return answer;
