@@ -223,6 +223,38 @@
 
 ---
 
+## 📅 5주차 문제 (코딩테스트 1회차)
+
+- **주제**: 코딩테스트
+- **출처**: 프로그래머스, 코드트리
+
+<details>
+<summary><b>코딩테스트 1회차(기본, 90분)</b></summary>
+
+| 출처 | 문제 등급 | 번호 | 제목 | 링크 |
+|:---:|:---:|:---:|---|:---:|
+| 프로그래머스 | 기출문제 | --- | 문제 1번 | [바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/340207) |
+| 프로그래머스 | 기출문제 | --- | 문제 2번 | [바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/340205) |
+| 프로그래머스 | 기출문제 | --- | 문제 3번 | [바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/340204) |
+| 프로그래머스 | 기출문제 | --- | 문제 4번 | [바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/340198) |
+| 프로그래머스 | 기출문제 | --- | 문제 5번 | [바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/250121) |
+| 프로그래머스 | 기출문제 | --- | 문제 6번 | [바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/250125) |
+
+</details>
+
+<details>
+<summary><b>코딩테스트 1회차(심화, 180분)</b></summary>
+
+| 출처 | 문제 등급 | 번호 | 제목 | 링크 |
+|:---:|:---:|:---:|---|:---:|
+| 코드트리 | 기출문제(삼성) | --- | 문제 1번 | [바로가기](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/dragon-curve/description) |
+| 코드트리 | 기출문제(삼성) | --- | 문제 2번 | [바로가기](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/min-of-hospital-distance/description) |
+
+</details>
+
+
+---
+
 ## 📤 제출 방법 요약
 
 ```bash
