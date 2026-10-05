@@ -252,6 +252,35 @@
 
 </details>
 
+---
+
+## 📅 6주차 문제 (코딩테스트 2회차)
+
+- **주제**: 코딩테스트
+- **출처**: 프로그래머스, 코드트리
+
+<details>
+<summary><b>코딩테스트 2회차(기본, 90분)</b></summary>
+
+| 출처 | 문제 등급 | 번호 | 제목 | 링크 |
+|:---:|:---:|:---:|---|:---:|
+| 프로그래머스 | 연습문제 | --- | 문제 1번 | [바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/42746) |
+| 프로그래머스 | 연습문제 | --- | 문제 2번 | [바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/84512) |
+| 프로그래머스 | 연습문제 | --- | 문제 3번 | [바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/43164) |
+| 프로그래머스 | SQL | --- | 문제 4번 | [바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/273709) |
+
+</details>
+
+<details>
+<summary><b>코딩테스트 2회차(심화, 180분)</b></summary>
+
+| 출처 | 문제 등급 | 번호 | 제목 | 링크 |
+|:---:|:---:|:---:|---|:---:|
+| 코드트리 | 기출문제(삼성, 2019상반기) | --- | 문제 1번 | [바로가기](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/matrix-number-play/description) |
+| 코드트리 | 기출문제(삼성, 2019상반기) | --- | 문제 2번 | [바로가기](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/vaccine-for-virus/description) |
+
+</details>
+
 
 ---
 
