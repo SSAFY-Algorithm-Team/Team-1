@@ -1,9 +1,6 @@
 from itertools import combinations
 from collections import deque
 
-from itertools import combinations
-from collections import deque
-
 
 def bfs(select_hospital, copied_grid):
 
