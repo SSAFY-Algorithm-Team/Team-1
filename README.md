@@ -281,6 +281,34 @@
 
 </details>
 
+## 📅 7주차 문제 (코딩테스트 3회차)
+
+- **주제**: 코딩테스트
+- **출처**: 프로그래머스, 코드트리
+
+<details>
+<summary><b>코딩테스트 3회차(기본, 120분 * 2)</b></summary>
+
+| 출처 | 문제 등급 | 번호 | 제목 | 링크 |
+|:---:|:---:|:---:|---|:---:|
+| 프로그래머스 | LEVEL 3 | 42895 | N으로 표현 | [바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/42895) |
+| 프로그래머스 | LEVEL 3 | 84021 | 퍼즐 조각 채우기 | [바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/84021) |
+| 프로그래머스 | LEVEL 3 | 87694 | 아이템 줍기 | [바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/87694) |
+| 프로그래머스 | LEVEL 3 | 42861 | 섬 연결하기 | [바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/42861) |
+
+</details>
+
+<details>
+<summary><b>코딩테스트 3회차(심화, 180분)</b></summary>
+
+| 출처 | 문제 등급 | 번호 | 제목 | 링크 |
+|:---:|:---:|:---:|---|:---:|
+| 코드트리 | 기출문제(삼성, 2024상반기) | --- | 문제 1번 | [바로가기](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/ancient-ruin-exploration/description) |
+| 코드트리 | 기출문제(삼성, 2024상반기) | --- | 문제 2번 | [바로가기](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/codetree-tour/description) |
+| 코드트리 | 기출문제(삼성, 2020상반기) | --- | 문제 1번 | [바로가기](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/odd-monopoly/description) |
+| 코드트리 | 기출문제(삼성, 2020상반기) | --- | 문제 2번 | [바로가기](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/autonomous-electric-car/description) |
+
+</details>
 
 ---
 
